@@ -1,3 +1,6 @@
+# Send mail sample
+# Author : Alexandre PENOMBRE <aluzed@gmail.com>
+
 # Example from : https://docs.python.org/2/library/email-examples.html
 
 # get our config
