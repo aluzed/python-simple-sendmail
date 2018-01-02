@@ -1,0 +1,4 @@
+Ceci est le contenu du mail.
+
+Cordialement,
+John Doe
